@@ -1,0 +1,6 @@
+Person{firstname='hussein ', lastname='salehi', signatur='salhus', lengt=1.83, index=0} Adress{postadress='Nackstavägen 42A', postort='Sundsvall', postnummer='853 52'}
+Person{firstname='luwam ', lastname='jonsson ', signatur='jonluw', lengt=1.7, index=1} Adress{postadress='Nackstavägen 23', postort='Nacksta', postnummer='853 52'}
+Person{firstname='rbin ', lastname='lindholm', signatur='linrbi', lengt=1.98, index=3} Adress{postadress='strandvägen 13', postort='bredsand', postnummer='123 45'}
+Person{firstname='elin', lastname='jonsson', signatur='joneli', lengt=1.76, index=6} Adress{postadress='parkvägen3', postort='kista', postnummer='987 56'}
+Person{firstname='amanda', lastname='sandhamn', signatur='sanama', lengt=1.75, index=10} Adress{postadress='sevjevägen 23', postort='stockholm', postnummer='987 56'}
+Person{firstname='rayan ', lastname='salehi', signatur='salray', lengt=67.0, index=15} Adress{postadress='helsingforsgatan 12', postort='kista', postnummer='164 78'}
